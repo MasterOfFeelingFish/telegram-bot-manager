@@ -172,7 +172,7 @@ Railway Project
 
 | 变量名 | 说明 | 是否必需 | 示例 |
 |--------|------|---------|------|
-| `BOT_TOKEN` | Telegram Bot Token | ✅ 必需 | `8520200276:AAHzpiIjyvfm5JzQnAxJPbhL7Jr11J5GMps` |
+| `BOT_TOKEN` | Telegram Bot Token | ✅ 必需 | `` |
 | `BASE_URL` | uni-api 服务地址 | ✅ 必需 | `http://uni-api:8000/v1`（本地）<br>`https://uni-api-xxxxx.up.railway.app/v1`（Railway） |
 | `API_KEY` | uni-api 的 API Key | ✅ 必需 | `sk-uni-api-key-12345` |
 
